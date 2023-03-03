@@ -1,5 +1,5 @@
 # ENSF 612 Assignment 3
-The purpose of this assignment is to use the Levenshtein distance algorithm, text preprocessing, and cosine similarity principle to select the top 3 posts that contain answers to the top unanswered questions on Stack Overflow in Spark, Machine Learning, and Security using PySpark.
+The purpose of this assignment is to use the Levenshtein distance algorithm, text preprocessing, and cosine similarity scores to select the top 3 posts that contain answers to the top unanswered questions on Stack Overflow in Spark, Machine Learning, and Security using PySpark.
 
 ## Folder Structure
 - [Assignment 3 Instructions](https://github.com/StevenD24/ENSF-612-Assignment-3/blob/main/A3%20W2023.pdf)
